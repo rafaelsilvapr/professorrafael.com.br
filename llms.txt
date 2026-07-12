@@ -1,0 +1,15 @@
+# Prof. Rafael
+
+Site oficial de Rafael Rodrigues da Silva, professor da Universidade Federal do Pampa e pesquisador em gestão de sala de aula na educação musical.
+
+## Conteúdos principais
+- [Gestão de sala de aula](https://professorrafael.com.br/gestao-de-sala-de-aula/)
+- [Indisciplina escolar](https://professorrafael.com.br/indisciplina-escolar/)
+- [Pesquisa e publicações](https://professorrafael.com.br/pesquisa/)
+- [Perfil do autor](https://professorrafael.com.br/sobre/)
+- [Todos os artigos](https://professorrafael.com.br/blog/)
+
+## Autoria e contato
+- Autor: Rafael Rodrigues da Silva
+- [Currículo Lattes](http://lattes.cnpq.br/5651631992207912)
+- Contato: rafaelsilva.pr@gmail.com
