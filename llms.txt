@@ -5,6 +5,7 @@ Site oficial de Rafael Rodrigues da Silva, professor da Universidade Federal do 
 ## Conteúdos principais
 - [Sobre Rafael Rodrigues da Silva](https://professorrafael.com.br/sobre/)
 - [Gestão de sala de aula e disciplina](https://professorrafael.com.br/gestao-de-sala-de-aula-e-disciplina/)
+- [Atlas do Ensino](https://atlas.professorrafael.com.br/)
 - [Publicações acadêmicas](https://professorrafael.com.br/publicacoes/)
 - [Palestras](https://professorrafael.com.br/palestras/)
 - [Música](https://professorrafael.com.br/musica/)
