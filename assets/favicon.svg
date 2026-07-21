@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Favicon Professor Rafael</title>
+  <desc id="desc">Letra R em creme sobre círculo verde-oliva, otimizada para leitura em abas de navegador.</desc>
+  <circle cx="128" cy="128" r="124" fill="#5A6B3A"/>
+  <path fill="#F4EFE6" fill-rule="evenodd" d="M61 211V45h81c45 0 73 25 73 65 0 25-12 45-35 57l42 44h-59l-37-40h-17v40H61Zm48-126v48h31c18 0 29-9 29-24 0-16-11-24-29-24h-31Z"/>
+</svg>

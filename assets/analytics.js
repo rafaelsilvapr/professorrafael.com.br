@@ -109,6 +109,7 @@
     const form = event.target;
     if (!(form instanceof HTMLFormElement)) return;
     if (form.matches('.signup')) window.siteAnalyticsEvent('newsletter_submit');
+    if (form.matches('.inquiry-form')) window.siteAnalyticsEvent('inquiry_submit');
     if (form.matches('.hero-search')) {
       const query = new FormData(form).get('q');
       window.siteAnalyticsEvent('search', { search_term: String(query || '').trim().slice(0, 100) });

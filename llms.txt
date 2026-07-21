@@ -1,6 +1,6 @@
-# Prof. Rafael
+# Professor Rafael
 
-Site oficial de Rafael Rodrigues da Silva, professor da Universidade Federal do Pampa e pesquisador em gestão de sala de aula e disciplina escolar na educação musical.
+Site oficial de Rafael Rodrigues da Silva, professor da Universidade Federal do Pampa que estuda o ensino escolar e compartilha o que aprende sobre docência, gestão de sala de aula, história do ensino e educação musical.
 
 ## Conteúdos principais
 - [Sobre Rafael Rodrigues da Silva](https://professorrafael.com.br/sobre/)
@@ -15,4 +15,4 @@ Site oficial de Rafael Rodrigues da Silva, professor da Universidade Federal do 
 ## Autoria e contato
 - Autor: Rafael Rodrigues da Silva
 - [Currículo Lattes](http://lattes.cnpq.br/5651631992207912)
-- Contato: rafaelsilva.pr@gmail.com
+- Contato: rafaelrodrigues@unipampa.edu.br
